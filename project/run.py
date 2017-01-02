@@ -1,5 +1,5 @@
-# project/run.py 
+# project/run.py
 
-from views import app 
 
-app.run(debug= True )
+from views import app
+app.run(debug=True)
